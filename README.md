@@ -1,4 +1,4 @@
-# Vue.js Mid-Level Task: Book Review Platform
+# Vue.js Beginner Testing Task: Book Review Platform
 
 ## Project Overview
 Create a book review platform where users can view a list of books, add new books, write reviews, and rate books. This project will incorporate various Vue.js functionalities and best practices.
